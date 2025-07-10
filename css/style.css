@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(31, 152, 110);
+    padding: auto;
+    line-height: 1.6;
+    color: antiquewhite;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+h1{
+    font-size: 2.8rem;
+    color: aqua;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+}
